@@ -1,8 +1,8 @@
 {
     "owner": {
-        "username": "nebullaq"
+        "username": "nebullaq-spec"
     },
-    "record": {
+    "records": {
         "A": ["185.103.101.229"]
     }
 }
